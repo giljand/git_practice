@@ -1,1 +1,1 @@
-get-aduser  *
+get-aduser  * -Server sgntj
